@@ -24,6 +24,7 @@ namespace TypesAndVariables
             long number2 = 9223372036854775807;  // 64 bit  -9223372036854775808 --> 9223372036854775807
             var number7 = 10;
             number7 = 'A';
+            //number7 = "A";
 
             Console.WriteLine("Number1 is {0}",number1);
             Console.WriteLine("Number2 is {0}", number2);
@@ -43,3 +44,4 @@ namespace TypesAndVariables
         Monday=10, Tuesday=20, Wednesday=30, Trhusday, Friday, Saturday, Sunday
     }
 }
+
